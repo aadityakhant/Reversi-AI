@@ -1,9 +1,4 @@
 Reversi AI - Traditional
-Group 4
-Members:
-Aaditya Arunkumar Khant
-Sahan Randika Kalutarage
-Shamitha Elugubanti
 
 We implemented MinMax algorithm with alpha-beta pruning and limited depth of 4 against greedy algorithm provided by professor.
 File minmax_player.py contains the implementation.
