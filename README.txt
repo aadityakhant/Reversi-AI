@@ -1,4 +1,4 @@
-**Reversi AI**
+Reversi AI
 
 Implementation of Greedy; MinMax algorithm with alpha-beta pruning and limited depth of 4; and Deep-Q Network with epsilon-greedy exploration.
 Deep-Q Network has 34,305 parameters and was trained for 10,000 epochs. File 'reversi_dqn_model.pth' contains model weights for Deep-Q Network.
